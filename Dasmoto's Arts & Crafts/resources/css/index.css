@@ -12,6 +12,10 @@ strong {
 	color: white;
 }
 
+.price {
+	font-weight:bold;
+}
+
 .header {
 	font-size: 100px;
 	font-weight: bold;
